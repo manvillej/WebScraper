@@ -1,0 +1,27 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-32
+@EXPLICIT
+https://repo.continuum.io/pkgs/main/win-32/asn1crypto-0.22.0-py36hee29ec9_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/beautifulsoup4-4.6.0-py36h4361f19_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/ca-certificates-2017.08.26-h94faf87_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/certifi-2017.7.27.1-py36h8287e07_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/cffi-1.10.0-py36h935798a_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/chardet-3.0.4-py36hf2a9688_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/cryptography-2.0.3-py36h011be45_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/idna-2.6-py36h787667b_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/openssl-1.0.2m-hc51d9ed_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/pip-9.0.1-py36had87c14_4.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/pycparser-2.18-py36h315bf61_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/pyopenssl-17.2.0-py36h2105193_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/pysocks-1.6.7-py36hbb234f4_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/python-3.6.3-h52e1c9f_4.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/requests-2.18.4-py36h964142b_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/setuptools-36.5.0-py36h7f22f53_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/six-1.11.0-py36h7f2c006_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/urllib3-1.22-py36hf0c4117_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/vc-14-h2379b0c_2.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/vs2015_runtime-14.0.25123-hd4c4e62_2.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/wheel-0.29.0-py36h442dda1_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/win_inet_pton-1.0.1-py36h6b5aef5_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-32/wincertstore-0.2-py36hcdd9a18_0.tar.bz2
